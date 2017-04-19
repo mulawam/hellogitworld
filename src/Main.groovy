@@ -1,5 +1,5 @@
-import static Square.square
-import static Division.divide
+ import static Square.square
+ import static Division.divide
 import static Subtract.subtract
 import static Sum.sum
 
